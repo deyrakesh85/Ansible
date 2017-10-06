@@ -1,0 +1,5 @@
+Steps:
+
+1. create an user in IAM and provide all required privilege
+2. create a local ssh key and import the public key to AWS keypair
+3. write playbooks and execute
